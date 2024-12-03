@@ -1,0 +1,5 @@
+# This file is used by Keycloak to register custom Protocol Mappers.
+# Each line specifies the fully qualified class name of a Protocol Mapper implementation.
+
+# Registering the custom RealmIssuerOverrideProtocolMapper
+com.example.keycloak.RealmIssuerOverrideProtocolMapper
