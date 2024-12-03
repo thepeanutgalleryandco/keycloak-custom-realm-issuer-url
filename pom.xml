@@ -12,7 +12,7 @@
         <!-- Set Java version to 17 -->
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <keycloak.version.target>26.0.5</keycloak.version.target>
+        <keycloak.version.target>26.0.6</keycloak.version.target>
     </properties>
 
     <dependencies>
