@@ -12,4 +12,5 @@ This repo creates a new Protocol Mapper option on Keycloak called "Realm Issuer 
 
 * Requirements:
   * Java 17
+  * Keycloak 26.0.0+
 * Simply perform a `mvn clean install` to generate a jar file after making your changes 
